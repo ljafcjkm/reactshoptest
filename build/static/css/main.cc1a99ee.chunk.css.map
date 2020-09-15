@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,iBACI,gBACJ,CAEA,OACI,aACJ,CAEA,gBACI,aAAc,CACd,UACJ","file":"main.cc1a99ee.chunk.css","sourcesContent":["#root>.container{\r\n    min-height: 100vh;\r\n}\r\n\r\n.modal{\r\n    display: block;\r\n}\r\n\r\n.modal-backdrop{\r\n    display: block;\r\n    opacity: .5;\r\n}"]}
